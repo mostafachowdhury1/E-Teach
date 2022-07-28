@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,400&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-item{
+   
+    height: 100vh;
+     min-height: 200px;
+    background-repeat: no-repeat center center scroll;
+    -webkit-background-size:cover;
+    background-size: cover;
+}
+
+.e{
+    color:orange;
+}
+
+
+.carousel-item img{
+    height: 92vh;
+ 
+    object-fit: cover;
+}
+.carousel-caption{
+    bottom: 250px;
+}
+.bg{
+    background-color: rgba(127, 255, 212, 0.11);
+}
+.accordion-body{
+    background-color: rgba(173, 216, 230, 0.438);
+}
+
+.bg-riew{
+    background-color: rgba(47, 79, 79, 0.801);
+}
+
+.price{
+    text-transform: capitalize;
+    font-size: 18px;
+    color:black;
+    font-weight: 800;
+}
+
+.price span{
+    color:orange;
+    font-size: 20px;
+}
+.box{
+    background: rgba(0, 139, 139, 0.096);
+    border: 1px solid rgba(128, 128, 128, 0.205);
+  
+}
+.start i{
+color:gold;
+}
+
+.text{
+    color:black;
+}
+.ftext{
+    color:white;
+}
+.register{
+    background: rgba(0, 139, 139, 0.63);
+   
+}
+.footer-icon  i{
+    color:black;
+      width:30px;
+      height:30px;
+     display: flex;
+     margin: 0px 3px;
+     align-items: center;
+     justify-content: center;
+    background: rgba(169, 169, 169, 0.281);
+    border-radius: 50%;
+
+}
+.footer-icon  i:hover{
+    color:whitel
+}
