@@ -8,6 +8,7 @@ body{
    
     height: 100vh;
      min-height: 200px;
+     background-image: linear-gradient(90deg,black,gray);
     background-repeat: no-repeat center center scroll;
     -webkit-background-size:cover;
     background-size: cover;
@@ -86,3 +87,5 @@ color:gold;
     color:white;
     background-color: black;
 }
+
+
