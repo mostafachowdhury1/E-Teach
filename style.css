@@ -58,7 +58,9 @@ color:gold;
 }
 
 .text{
-    color:black;
+   
+    color: rgb(28, 41, 3);;
+    font-weight: 600;
 }
 .ftext{
     color:white;
@@ -77,8 +79,10 @@ color:gold;
      justify-content: center;
     background: rgba(169, 169, 169, 0.281);
     border-radius: 50%;
+    transition: 0.5s;
 
 }
 .footer-icon  i:hover{
-    color:whitel
+    color:white;
+    background-color: black;
 }
